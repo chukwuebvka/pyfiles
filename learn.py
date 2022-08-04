@@ -991,5 +991,5 @@
 
 
 
-aTuple = (1, 'Jhon', 1+3j)
-print(type(aTuple[2:3]))
+# aTuple = (1, 'Jhon', 1+3j)
+# print(type(aTuple[2:3]))
